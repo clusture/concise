@@ -1,1 +1,1 @@
-Concise Notes
+## Short Notes on Machine Learning
