@@ -1,6 +1,6 @@
 ---
 title: Gradient Descent for Single Training Example
-topic: Linear Regression
+topic: Gradient Descent for Linear Regression
 ---
 
 ## Gradient Descent for Single Training Example

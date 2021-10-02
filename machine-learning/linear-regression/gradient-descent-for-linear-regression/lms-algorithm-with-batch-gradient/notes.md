@@ -1,6 +1,6 @@
 ---
 title: LMS Algorithm with Batch Gradient
-topic: Linear Regression
+topic: Gradient Descent for Linear Regression
 ---
 
 ## LMS Algorithm with Batch Gradient

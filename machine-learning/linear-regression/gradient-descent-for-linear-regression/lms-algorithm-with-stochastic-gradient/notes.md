@@ -1,6 +1,6 @@
 ---
 title: Gradient Descent for Least Squares Cost
-topic: Linear Regression
+topic: Gradient Descent for Linear Regression
 ---
 
 ## Gradient Descent for Least Squares Cost
