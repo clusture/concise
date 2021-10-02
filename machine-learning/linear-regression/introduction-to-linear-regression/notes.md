@@ -5,6 +5,6 @@ topic: Linear Regression
 
 ## Introduction to Linear Regression
 
-Let's revisit supervised learning setting and regression problem. Through the housing price prediction example, we introduce regression problem and propose linear regression as a method of solving it. We describe the least squares cost function which gives raise to ordinary least squares regression. 
+First, let's revisit supervised learning setting and regression problem. Through the housing price prediction example, we introduce regression problem and propose linear regression as a method of solving it. We describe the least squares cost function which gives raise to ordinary least squares regression. 
 
 ---
