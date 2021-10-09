@@ -1,4 +1,4 @@
-## Machine Learning Table of Contents
+# Machine Learning Table of Contents
 
 * [Linear Regression](machine-learning/linear-regression/notes.md)
     * [Introduction to Linear Regression](machine-learning/linear-regression/introduction-to-linear-regression/notes.md)
