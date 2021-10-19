@@ -1,6 +1,7 @@
 ---
 title: Maximum Likelihood Estimation: Logistic Regression
 topic: Logistic Regression
+slug: max-likelihood-estimation
 ---
 
 # Maximum Likelihood Estimation: Logistic Regression

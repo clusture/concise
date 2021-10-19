@@ -1,6 +1,7 @@
 ---
 title: Classification Problem
 topic: Logistic Regression
+slug: classification-problem
 ---
 
 # Classification Problem

@@ -1,6 +1,7 @@
 ---
 title: Ordinary Least Squares Regression
 topic: Linear Regression
+slug: ordinary-least-squares-regression
 ---
 
 # Ordinary Least Squares Regression

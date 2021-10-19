@@ -1,6 +1,7 @@
 ---
 title: Decision Boundary: Logistic Regression
 topic: Logistic Regression Model
+slug: decision-boundary
 ---
 
 # Decision Boundary: Logistic Regression

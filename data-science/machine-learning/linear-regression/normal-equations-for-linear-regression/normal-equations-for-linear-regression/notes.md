@@ -1,6 +1,7 @@
 ---
 title: Normal Equations Derivation for Linear Regression
 topic: Normal Equations for Linear Regression
+slug: normal-eqn-derivation
 ---
 
 # Normal Equations Derivation for Linear Regression

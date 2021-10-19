@@ -1,6 +1,7 @@
 ---
 title: Linear Regression
 topic: Linear Regression
+slug: linear-regression
 ---
 
 # Linear Regression

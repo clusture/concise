@@ -1,6 +1,7 @@
 ---
 title: Gradient Descent for Linear Regression
 topic: Linear Regression
+slug: gradient-descent
 ---
 
 # Gradient Descent for Linear Regression

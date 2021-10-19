@@ -1,6 +1,7 @@
 ---
 title: Linear Regression Hypothesis Function Revisit
 topic: Normal Equations for Linear Regression
+slug: hypothesis-func-revisit
 ---
 
 # Linear Regression Hypothesis Function Revisit

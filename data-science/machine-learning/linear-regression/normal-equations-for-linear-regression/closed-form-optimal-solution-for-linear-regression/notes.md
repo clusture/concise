@@ -1,6 +1,7 @@
 ---
 title: Closed Form Optimal Solution for Linear Regression
 topic: Normal Equations for Linear Regression
+slug: closed-form-optimal-soln
 ---
 
 # Closed Form Optimal Solution for Linear Regression

@@ -1,6 +1,7 @@
 ---
 title: Gradient Ascent Update: Logistic Regression
 topic: Maximum Likelihood Estimation: Logistic Regression
+slug: gradient-ascent-update
 ---
 
 # Gradient Ascent Update: Logistic Regression

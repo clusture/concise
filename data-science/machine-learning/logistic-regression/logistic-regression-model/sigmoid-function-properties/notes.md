@@ -1,6 +1,7 @@
 ---
 title: Sigmoid Function Properties
 topic: Logistic Regression Model
+slug: sigmoid-func-props
 ---
 
 # Sigmoid Function Properties

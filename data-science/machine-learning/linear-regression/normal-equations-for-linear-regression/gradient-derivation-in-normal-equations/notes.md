@@ -1,6 +1,7 @@
 ---
 title: Gradient Derivation in Normal Equations
 topic: Normal Equations for Linear Regression
+slug: gradient-derivation-normal-eqn
 ---
 
 # Gradient Derivation in Normal Equations

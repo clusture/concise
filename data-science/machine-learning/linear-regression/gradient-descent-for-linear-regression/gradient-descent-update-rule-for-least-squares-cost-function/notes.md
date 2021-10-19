@@ -1,6 +1,7 @@
 ---
 title: Gradient Descent Update Rule for Least Squares Cost
 topic: Gradient Descent for Linear Regression
+slug: gradient-descent-update-rule-least-squares-cost
 ---
 
 # Gradient Descent Update Rule for Least Squares Cost

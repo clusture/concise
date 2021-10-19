@@ -1,6 +1,7 @@
 ---
 title: Why Log Likelihood: Logistic Regression
 topic: Maximum Likelihood Estimation: Logistic Regression
+slug: why-log-likelihood
 ---
 
 # Why Log Likelihood: Logistic Regression

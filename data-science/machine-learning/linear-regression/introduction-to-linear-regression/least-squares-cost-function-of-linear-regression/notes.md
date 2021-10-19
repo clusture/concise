@@ -1,6 +1,7 @@
 ---
 title: Least Squares Cost Function of Linear Regression
 topic: Introduction to Linear Regression
+slug: least-squares-cost-func
 ---
 
 # Least Squares Cost Function

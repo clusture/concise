@@ -1,6 +1,7 @@
 ---
 title: Hypotheses Function of Linear Regression
 topic: Introduction to Linear Regression
+slug: hypothesis-func
 ---
 
 # Hypotheses Function of Linear Regression

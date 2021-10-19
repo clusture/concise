@@ -1,6 +1,7 @@
 ---
 title: Introduction to Linear Regression
 topic: Linear Regression
+slug: linear-regression-intro
 ---
 
 # Introduction to Linear Regression

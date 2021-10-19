@@ -1,6 +1,7 @@
 ---
 title: Logistic Regression
 topic: Logistic Regression
+slug: logistic-regression
 ---
 
 # Logistic Regression

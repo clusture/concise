@@ -1,6 +1,7 @@
 ---
 title: Sigmoid Function
 topic: Logistic Regression Model
+slug: sigmoid-func
 ---
 
 # Sigmoid Function

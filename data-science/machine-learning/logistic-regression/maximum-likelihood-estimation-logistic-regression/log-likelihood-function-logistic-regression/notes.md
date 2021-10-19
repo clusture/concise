@@ -1,6 +1,7 @@
 ---
 title: Log Likelihood Function: Logistic Regression
 topic: Maximum Likelihood Estimation: Logistic Regression
+slug: log-likelihood-func
 ---
 
 # Log Likelihood Function: Logistic Regression

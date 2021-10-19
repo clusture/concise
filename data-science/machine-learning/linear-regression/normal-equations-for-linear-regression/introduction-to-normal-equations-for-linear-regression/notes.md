@@ -1,6 +1,7 @@
 ---
 title: Introduction to Normal Equations for Linear Regression
 topic: Normal Equations for Linear Regression
+slug: normal-eqn-intro
 ---
 
 # Introduction to Normal Equations for Linear Regression

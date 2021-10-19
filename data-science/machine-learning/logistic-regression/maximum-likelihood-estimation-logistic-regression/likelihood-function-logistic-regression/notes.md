@@ -1,6 +1,7 @@
 ---
 title: Likelihood Function: Logistic Regression
 topic: Maximum Likelihood Estimation: Logistic Regression
+slug: likelihood-func
 ---
 
 # Likelihood Function: Logistic Regression

@@ -1,6 +1,7 @@
 ---
 title: LMS Algorithm with Batch Gradient
 topic: Gradient Descent for Linear Regression
+slug: lms-algo-batch-gradient
 ---
 
 # LMS Algorithm with Batch Gradient

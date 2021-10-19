@@ -1,6 +1,7 @@
 ---
 title: Summary and Observations: Linear Regression
 topic: Linear Regression
+slug: summary-observations
 ---
 
 # Summary and Observations: Linear Regression

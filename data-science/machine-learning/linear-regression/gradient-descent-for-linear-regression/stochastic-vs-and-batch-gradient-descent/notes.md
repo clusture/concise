@@ -1,6 +1,7 @@
 ---
 title: Stochastic Vs Batch Gradient Descent
 topic: Gradient Descent for Linear Regression
+slug: stochastic-vs-batch-gradient-descent
 ---
 
 # Stochastic Vs Batch Gradient Descent

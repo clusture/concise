@@ -1,6 +1,7 @@
 ---
 title: Logistic Regression's Hypothesis Function
 topic: Logistic Regression Model
+slug: hypothesis-func
 ---
 
 # Logistic Regression's Hypothesis Function

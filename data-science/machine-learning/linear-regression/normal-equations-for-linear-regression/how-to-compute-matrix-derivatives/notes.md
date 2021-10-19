@@ -1,6 +1,7 @@
 ---
 title: How to Compute Matrix Derivatives
 topic: Normal Equations for Linear Regression
+slug: compute-matrix-derivatives
 ---
 
 # Matrix Derivatives

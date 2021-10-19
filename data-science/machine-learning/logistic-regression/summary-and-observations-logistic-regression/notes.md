@@ -1,6 +1,7 @@
 ---
 title:  Summary and Observations: Logistic Regression
 topic: Logistic Regression
+slug: summary-observations
 ---
 
 # Summary and Observations: Logistic Regression

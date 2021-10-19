@@ -1,6 +1,7 @@
 ---
 title: Design matrix in Ordinary Least Squares
 topic: Normal Equations for Linear Regression
+slug: design-matrix-ordinary-least-squares
 ---
 
 # Design matrix in Ordinary Least Squares

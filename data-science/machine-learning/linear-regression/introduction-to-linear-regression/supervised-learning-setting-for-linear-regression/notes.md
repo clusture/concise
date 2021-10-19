@@ -1,6 +1,7 @@
 ---
 title: Supervised Learning for Linear Regression
 topic: Introduction to Linear Regression
+slug: supervised-learning
 ---
 
 # Supervised Learning for Linear Regression

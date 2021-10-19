@@ -1,6 +1,7 @@
 ---
 title: Ordinary Least Squares Cost Function with Matrix Notation
 topic: Normal Equations for Linear Regression
+slug: ordinary-least-squares-cost-func-matrix-notation
 ---
 
 # Ordinary Least Squares Cost Function with Matrix Notation

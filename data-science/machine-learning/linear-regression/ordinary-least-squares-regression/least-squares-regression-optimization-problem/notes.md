@@ -1,6 +1,7 @@
 ---
 title: Least Squares Regression Optimization Problem
 topic: Ordinary Least Squares Regression
+slug: least-squares-regression-optimization-problem
 ---
 
 # Least Squares Regression Optimization Problem

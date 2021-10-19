@@ -1,6 +1,7 @@
 ---
 title: Binary and Multiclass Classification
 topic: Logistic Regression
+slug: binary-multiclass-classification
 ---
 
 # Binary and Multiclass Classification

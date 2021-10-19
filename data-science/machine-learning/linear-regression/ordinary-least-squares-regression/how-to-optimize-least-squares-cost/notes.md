@@ -1,6 +1,7 @@
 ---
 title: How to Optimize Least Squares Cost Function
 topic: Linear Regression
+slug: optimize-least-squares-cost-func
 ---
 
 # Least Squares Regression Optimization Problem
