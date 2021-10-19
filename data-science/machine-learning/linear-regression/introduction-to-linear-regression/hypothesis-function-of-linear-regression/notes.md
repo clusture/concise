@@ -1,10 +1,10 @@
 ---
-title: Hypotheses Function of Linear Regression
+title: Hypothesis Function of Linear Regression
 topic: Introduction to Linear Regression
 slug: hypothesis-func
 ---
 
-# Hypotheses Function of Linear Regression
+# Hypothesis Function of Linear Regression
 
 To perform supervised learning, we must decide how we are going to represent functions/hypotheses $h$ in a computer. As an initial choice, let's say we decide to approximate $y$ as a **linear function** of $x$: $$h_{\theta}(x) = \theta_{0} + \theta_{1} x_{1} + \theta_{2} x_{2}$$
 

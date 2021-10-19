@@ -1,10 +1,10 @@
 ---
-title: Stochastic Vs Batch Gradient Descent
+title: Stochastic vs Batch Gradient Descent
 topic: Gradient Descent for Linear Regression
 slug: stochastic-vs-batch-gradient-descent
 ---
 
-# Stochastic Vs Batch Gradient Descent
+# Stochastic vs Batch Gradient Descent
 
 In stochastic gradient descent algorithm, we repeatedly run through the training set, and each time we encounter a training example, we update the parameters according to the gradient of the error with respect to that single training example only. Whereas batch gradient descent has to scan through the entire training set before taking a single step, which is a costly operation if $n$ is large. Stochastic gradient descent can start making progress right away, and continues to make progress with each example it looks at. 
 

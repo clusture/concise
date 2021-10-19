@@ -1,5 +1,5 @@
 ---
-title:  Summary and Observations: Logistic Regression
+title: Summary and Observations: Logistic Regression
 topic: Logistic Regression
 slug: summary-observations
 ---
