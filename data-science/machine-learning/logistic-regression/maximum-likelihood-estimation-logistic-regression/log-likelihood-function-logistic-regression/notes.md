@@ -1,10 +1,10 @@
 ---
-title: Log Likelihood Function: Logistic Regression
+title: Log Likelihood Function for Logistic Regression
 topic: Maximum Likelihood Estimation: Logistic Regression
 slug: log-likelihood-func
 ---
 
-# Log Likelihood Function: Logistic Regression
+# Log Likelihood Function for Logistic Regression
 
 Let us recall the likelihood function of logistic regression : $$\mathcal{L}(\theta) = \prod_{i=1}^n (h_{\theta}(x^i))^{y^i} (1-h_{\theta}(x^i))^{1-y^{i}}$$
 

@@ -1,10 +1,10 @@
 ---
-title: Summary and Observations: Logistic Regression
+title: Summary and Observations for Logistic Regression
 topic: Logistic Regression
 slug: summary-observations
 ---
 
-# Summary and Observations: Logistic Regression
+# Summary and Observations for Logistic Regression
 
 We formally described the classification problem under supervised learning settings. We introduced logistic regression model for binary classification problem. Logistic regression due to its relative simplicity and well-known properties is one of the popular techniques in machine learning. We used maximum likelihood estimation for finding the optimal parameter for logistic regression. We used gradient ascent iterative scheme to find the optimal parameter. 
 

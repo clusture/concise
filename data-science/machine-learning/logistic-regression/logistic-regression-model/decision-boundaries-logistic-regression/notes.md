@@ -1,10 +1,10 @@
 ---
-title: Decision Boundary: Logistic Regression
+title: Decision Boundary for Logistic Regression
 topic: Logistic Regression Model
 slug: decision-boundary
 ---
 
-# Decision Boundary: Logistic Regression
+# Decision Boundary for Logistic Regression
 
 We know that for binary classification task, the learning algorithm need to output either $0$ or $1$ class. But, the output of logistic regression's hypothesis function is between $0$ and $1$. In order to get our discrete $0$ or $1$ classification, we can translate the output of the hypothesis function as follows: $$\begin{aligned} h_{\theta}(x) \ge 0.5 &\implies y=1 \\ h_{\theta}(x) < 0.5 &\implies y=0 \end{aligned}$$
 

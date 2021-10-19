@@ -1,10 +1,10 @@
 ---
-title: Logistic Regression's Hypothesis Function
+title: Hypothesis Function for Logistic Regression
 topic: Logistic Regression Model
 slug: hypothesis-func
 ---
 
-# Logistic Regression's Hypothesis Function
+# Hypothesis Function for Logistic Regression
 
 For binary classification tasks, intuitively it also doesn't make sense for $h_{\theta} (x)$ to take values larger than 1 or smaller than 0 when we know that $y \in \{0,1\}$. We know that linear regression can give any value between $(-\infty, \infty)$.
 

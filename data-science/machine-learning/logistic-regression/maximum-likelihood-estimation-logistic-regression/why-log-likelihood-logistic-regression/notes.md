@@ -1,10 +1,10 @@
 ---
-title: Why Log Likelihood: Logistic Regression
+title: Why Log Likelihood for Logistic Regression
 topic: Maximum Likelihood Estimation: Logistic Regression
 slug: why-log-likelihood
 ---
 
-# Why Log Likelihood: Logistic Regression
+# Why Log Likelihood for Logistic Regression
 
 We need to answer two questions before proceeding with optimizing log likelihood :
 1. Why log likelihood is a easier optimization problem to solve ?

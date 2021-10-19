@@ -1,10 +1,10 @@
 ---
-title: Gradient Ascent Update: Logistic Regression
+title: Gradient Ascent Update for Logistic Regression
 topic: Maximum Likelihood Estimation: Logistic Regression
 slug: gradient-ascent-update
 ---
 
-# Gradient Ascent Update: Logistic Regression
+# Gradient Ascent Update for Logistic Regression
 
 Let us recall the optimization problem corresponding to the log likelihood : $${\underset {\theta} {\operatorname {max}}} \,\,\,l(\theta) = \sum_{i=1}^n y^i\,log (h_{\theta}(x^i)) + (1-y^{i}) \, log\,(1-h_{\theta}(x^i))$$
 

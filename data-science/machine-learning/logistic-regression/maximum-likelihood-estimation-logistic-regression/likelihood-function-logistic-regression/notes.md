@@ -1,10 +1,10 @@
 ---
-title: Likelihood Function: Logistic Regression
+title: Likelihood Function for Logistic Regression
 topic: Maximum Likelihood Estimation: Logistic Regression
 slug: likelihood-func
 ---
 
-# Likelihood Function: Logistic Regression
+# Likelihood Function for Logistic Regression
 
 Before moving to the maximum likelihood estimation, let us define some things required for estimating the optimal parameter through maximum likelihood estimation for logistic regression.
 
