@@ -1,9 +1,10 @@
 ---
-title: Likelihood Function: Logistic Regression
+title: Likelihood Function for Logistic Regression
 topic: Maximum Likelihood Estimation: Logistic Regression
+slug: likelihood-func
 ---
 
-# Likelihood Function: Logistic Regression
+# Likelihood Function for Logistic Regression
 
 Before moving to the maximum likelihood estimation, let us define some things required for estimating the optimal parameter through maximum likelihood estimation for logistic regression.
 
@@ -16,5 +17,3 @@ Assuming that the $n$ training examples were generated independently, we can the
 The goal of maximum likelihood estimation is to find the values of the model parameters that maximize the likelihood function : $${\underset {\theta} {\operatorname {max}}}\quad \mathcal{L}(\theta) = \prod_{i=1}^n (h_{\theta}(x^i))^{y^i} (1-h_{\theta}(x^i))^{1-y^{i}}$$
 
 Let us look at how to find the optimal parameter or Is there a easy way of solving another simpler optimization problem to get the same optimal parameter.
-
----

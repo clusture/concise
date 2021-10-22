@@ -1,6 +1,7 @@
 ---
 title: Normal Equations Derivation for Linear Regression
 topic: Normal Equations for Linear Regression
+slug: normal-eqn-derivation
 ---
 
 # Normal Equations Derivation for Linear Regression
@@ -12,5 +13,3 @@ In order to minimize $J(\theta)$, we need to set the derivative of it to zero an
 In our case, this translates in to **Normal equations** :$$X^{T}X \theta = X^{T}{\vec y}$$
 
 We need to solve these set of equations to find the optimal parameter $\theta$.
-
----

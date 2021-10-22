@@ -1,6 +1,7 @@
 ---
 title: Sigmoid Function Properties
 topic: Logistic Regression Model
+slug: sigmoid-func-props
 ---
 
 # Sigmoid Function Properties
@@ -14,5 +15,3 @@ Moreover, $g(z)$ is always bounded between 0 and 1. As before, we are keeping th
 Before moving on, here's a useful property of the derivative of the sigmoid function, which we write as $g'$ : $$\begin{aligned}g'(z) &= \frac{d}{dz}\,\,\frac{1}{1+e^{-z}} \\&= \frac{1}{(1+e^{-z})^2} (e^{-z}) \\&= \frac{1}{(1+e^{-z})} \left(1 - \frac{1}{(1+e^{-z})}\right) \\&= g(z)(1-g(z))\end{aligned}$$
 
 This shows that the derivative of sigmoid function $g(z)$ can be expressed as function of sigmoid function itself $g(z)$. It is very useful property.
-
----

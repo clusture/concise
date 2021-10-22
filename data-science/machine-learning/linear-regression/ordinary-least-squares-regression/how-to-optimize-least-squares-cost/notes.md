@@ -1,9 +1,10 @@
 ---
 title: How to Optimize Least Squares Cost Function
 topic: Linear Regression
+slug: optimize-least-squares-cost-func
 ---
 
-# Least Squares Regression Optimization Problem
+# How to Optimize Least Squares Cost Function
 
 We want to come up with a algorithm that gives the $\theta$ that minimizes $J(\theta)$, i.e, least squares cost function. It turns out, there are two approaches to find $\theta$ that minimizes the least squares cost function.
 
