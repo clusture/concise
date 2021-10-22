@@ -19,5 +19,3 @@ Let us answer each of the questions separately. First, let us look at why the lo
 Second, let us look whether both likelihood and log likelihood optimization problems give same result or not. $log ()$ is an increasing function. So, $log(x)$ will be maximum for the element $x$ if it is maximum among others in the set. $l(\theta)$ will be maximum when $\mathcal{L}(\theta)$ is maximum. Hence, the $\theta$ that maximizes the $\mathcal{L}(\theta)$ will also maximizes $l(\theta)$. Therefore, the two optimization problems, one with $l(\theta)$ and another with $\mathcal{L}(\theta)$ gives the same result.
 
 Now let us look, how to find the optimal parameter for the log likelihood function.
-
----

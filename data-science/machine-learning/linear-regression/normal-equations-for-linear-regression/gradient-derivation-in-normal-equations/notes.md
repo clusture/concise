@@ -17,5 +17,3 @@ $$\begin{aligned}\nabla_{\theta} J(\theta) &= \nabla_{\theta}\frac{1}{2} (X\thet
 \\ &= X^{T}X \theta - X^{T}y\end{aligned}$$
 
 We used the following results in the above derivation. In the third step, $\nabla_{\theta} {\vec y}^T{\vec y} = 0$ and $a^Tb = b^Ta$. And, in the fifth step used the facts $\nabla_{x} b^Tx = b$ and $\nabla_{x} x^T A x = 2Ax$ for symmetric matrix $A$. 
-
----

@@ -18,5 +18,3 @@ $$
 We can write the above algorithm in vector form as following : $$\theta = \theta + \alpha \sum_{i=1}^{n} (y^{i} - h_{\theta}(x^i)) x^{i}$$
 
 This method looks at each and every training example on the training set for every step and computes the gradient and updates the parameter $\theta$. This update rule is called **batch gradient descent**. Gradient descent can be suspectable to local minima in general. However, the optimization problem that we have formulated here has one global minima and no local minima. Thus, gradient descent always converges to local minima.
-
----

@@ -11,5 +11,3 @@ For binary classification tasks, intuitively it also doesn't make sense for $h_{
 To fix it let's change the form of a hypotheses function $h_{\theta}(x)$. We will chose : $$\begin{aligned} h_{\theta}(x) &= g(\theta^{T}x) \\&= \frac{1}{1 + e^{\theta^T x}}\end{aligned}$$
 
 Here, function $g$ is called logistic function or sigmoid function. This forms the hypotheses function of logistic regression model. Let us look the details of sigmoid function.
-
----

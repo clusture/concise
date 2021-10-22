@@ -12,5 +12,3 @@ Let's talk about the classification problem. Classification is one of the import
 2. Multi-class classification problems
 
 Let us look into each of these classifications.
-
----

@@ -13,5 +13,3 @@ We used the sigmoid function $g$ in logistic regression's hypothesis function. H
 ![Sigmoid-Function-Plot](./images/logistic-function.PNG)
 
 Let us look at some properties of a sigmoid function.
-
----

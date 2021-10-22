@@ -13,5 +13,3 @@ The idea is to define the cost function that measures the distance between $h(x^
 In linear regression, this cost function is called **least squares cost function**. This gives raise to **ordinary least squares** regression model. 
 
 Using this least squares cost function, we need to learn the parameter $\theta$ that minimizes cost over atleast for training set.
-
----

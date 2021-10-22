@@ -11,5 +11,3 @@ Now, since the prediction of training example $x^i$ is given by $h_{\theta}(x^i)
 We know that for a vector $z$, the inner product with itself is given by : $z^{T}z = \sum_{i}z_{i}^2$. Now using the matrix notations and derivations we have seen so far, we will represent the least squares regression cost function with them. 
 
 Least Squares Cost Function for Linear Regression : $$\begin{aligned} \frac{1}{2} (X\theta - {\vec y})^{T}(X\theta - {\vec y}) &= \frac{1}{2} \sum_{t}^{n} (\mathbf {h_{\theta}(x^{i}) - y^{i}})^{2} \\ &= J(\theta) \end{aligned}$$
-
----

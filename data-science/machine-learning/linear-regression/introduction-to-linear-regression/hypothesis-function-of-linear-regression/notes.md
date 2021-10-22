@@ -13,5 +13,3 @@ Here, the $\theta_i$'s are parameters (also called as weights) parameterizing th
 To simplify the notation, let us introduce the convention of $x_0 = 1$ (intercept term) and also the drop the subscript $\theta$ from $h_{\theta}(x)$ for representing hypotheses function. Then our hypotheses function looks like : $$h(x) = \sum_{i=0}^d \theta_i x_i = \theta^T x$$
 
 Here, both $\theta$ and $x$ are $d$ dimensional vectors. Hence, the parameter to learn is $\theta$, which is a $d$-dimensional vector in this model. 
-
----

@@ -13,8 +13,3 @@ The following are the few observations. If we compare parameter update rule of l
 But both are not the same algorithms, because $h_{\theta}(x)$ is defined as a non-linear function $\theta^T x$, which is given by $g(\theta^T x)$. Nonetheless, it's a little surprising that we end up with the same update rule for a rather different algorithm and learning problem. One can find the deeper reason behind this in generalized linear models (GLMs).
 
 Another interesting observation is regarding the choice of $g$ in the hypothesis function. Other functions that smoothly increase from 0 to 1 can also be used. But, the choice of the logistic function is a fairly natural one. However, the reasons for that can be found in GLMs and generative learning algorithms.
-
----
-
-
-

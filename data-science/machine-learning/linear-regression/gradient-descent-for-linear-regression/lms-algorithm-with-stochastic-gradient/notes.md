@@ -19,5 +19,3 @@ $$
 By grouping the updates of coordinates into update of the vector $\theta$, we can rewrite the above rule into : $$\theta = \theta + \alpha (y^{i} - h_{\theta}(x^{i})) x^{i}$$
 
 This algorithm is called **stochastic gradient descent** (also incremental gradient descent).
-
----
