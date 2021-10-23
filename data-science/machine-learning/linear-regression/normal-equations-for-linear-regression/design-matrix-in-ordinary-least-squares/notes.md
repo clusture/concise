@@ -1,6 +1,7 @@
 ---
 title: Design matrix in Ordinary Least Squares
 topic: Normal Equations for Linear Regression
+slug: design-matrix-ordinary-least-squares
 ---
 
 # Design matrix in Ordinary Least Squares
@@ -12,5 +13,3 @@ If we include the intercept term then design matrix is a $(n+1) \times d$ matrix
 
 Let ${\vec y}$ be the $n$-dimensional vector containing all the target values from the training set : 
 $${\vec y} ={\begin{pmatrix}y^{1}\\y^{2}\\\vdots \\y^{n}\end{pmatrix}}$$
-
----

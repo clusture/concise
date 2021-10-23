@@ -1,7 +1,7 @@
 ---
 title: Logistic Regression Model
 topic: Logistic Regression
-slug: logistic-regression
+slug: logistic-regression-model
 ---
 
 # Logistic Regression Model
@@ -18,5 +18,3 @@ Intuitively it's clear that all tumors larger certain threshold are malignant. S
 ![Linear-Regression-Tumor-Plot](./images/linear-regression-for-classification-not-working-example.PNG)
 
 Now our $h(x) > 0.5$ for malignant doesn't work anymore. To keep making correct predictions we need to change it to $h(x) > 0.2$ or something - but that not how the algorithm should work. We cannot change the hypothesis each time a new sample arrives. Instead, we should learn it off the training set data, and then (using the hypothesis we've learned) make correct predictions for the data we haven't seen before. this explains why linear regression is not the best fit for classification problems. This motivates the new algorithm called logistic regression. Let us discuss the details of logistic regression model.
-
----

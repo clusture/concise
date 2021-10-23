@@ -1,6 +1,7 @@
 ---
 title: Binary and Multiclass Classification
 topic: Logistic Regression
+slug: binary-multiclass-classification
 ---
 
 # Binary and Multiclass Classification
@@ -10,5 +11,3 @@ Let's talk about the binary classification problem. This is one of the classific
 Whereas in multiclass classification, the target variable $y$ can take more than two values. For instance, trying to build a system to classify a set of images of fruits which may be oranges, apples, or pears.
 
 The goal of learning algorithm is predict or assign one of the class to the given input variables. Let us look for classification algorithms and discuss.
-
----
