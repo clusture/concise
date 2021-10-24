@@ -1,10 +1,10 @@
 ---
-title: Logistic Regression Model
+title: How to Classify Using Logistic Regression
 topic: Logistic Regression Model
-slug: logistic-regression-model
+slug: classify-using-logistic-regression
 ---
 
-# Logistic Regression Model
+# How to Classify Using Logistic Regression
 
 Let us recall the hypothesis function of logistic regression algorithm : $$\begin{aligned} h_{\theta}(x) &= g(\theta^{T}x) \\&= \frac{1}{1 + e^{\theta^T x}}\end{aligned}$$
 
