@@ -1,10 +1,10 @@
 ---
-title: LMS Algorithm with Batch Gradient
+title: Batch Gradient Descent for Linear Regression
 topic: Gradient Descent for Linear Regression
-slug: lms-algo-batch-gradient
+slug: batch-gradient-descent
 ---
 
-# LMS Algorithm with Batch Gradient
+# Batch Gradient Descent for Linear Regression
 
 So far, we have looked the case where training set has only one example. Let us looks for the ways to generalize the update rule for the cases where training set having more than one training example. One way to modify the update rule to work with more than one training example is the following 
 

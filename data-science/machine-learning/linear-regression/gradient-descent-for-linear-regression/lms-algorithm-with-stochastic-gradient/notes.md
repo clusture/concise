@@ -1,10 +1,10 @@
 ---
-title: Gradient Descent for Least Squares Cost
+title: Stochastic Gradient Descent for Linear Regression
 topic: Gradient Descent for Linear Regression
-slug: gradient-descent-least-squares-cost
+slug: stochastic-gradient-descent
 ---
 
-# Stochastic Gradient Descent for Least Squares Cost
+# Stochastic Gradient Descent for Linear Regression
 
 There are alternatives to batch gradient descent. Instead of looking at all the training examples to update the parameter. Consider the following iterative algorithm, where parameter update is performed for every training example : 
 $$\begin{aligned}
