@@ -1,7 +1,7 @@
 ---
 title: Introduction to Machine Learning
 topic: Machine Learning
-slug:  machine-learning-intro
+slug: machine-learning-intro
 ---
 
 # Introduction to Machine Learning
