@@ -6,7 +6,8 @@ slug: gradient-derivation-normal-eqn
 
 # Gradient Derivation for Normal Equations
 
-Recall that, we use gradient descent algorithm for finding the optimal parameter $\theta$ which minimize the cost function $J(\theta)$. We use the similar approach now. However, we can use the matrix notation of the least squares cost function to compute the gradient. Recall the matrix notation of least squares cost function given by : $$J(\theta) = \frac{1}{2} (X\theta - {\vec y})^{T}(X\theta - {\vec y})$$
+Recall that, we use gradient descent algorithm for finding the optimal parameter $\theta$ which minimize the cost function $J(\theta)$. We use the similar approach now. However, we can use the matrix notation of the least squares cost function to compute the gradient. Recall the matrix notation of least squares cost function given by :
+$$J(\theta) = \frac{1}{2} (X\theta - {\vec y})^{T}(X\theta - {\vec y})$$
 
 The gradient of least squares cost function $J(\theta)$ is given by :
 $$\begin{aligned}\nabla_{\theta} J(\theta) &= \nabla_{\theta}\frac{1}{2} (X\theta - {\vec y})^{T}(X\theta - {\vec y}) 
