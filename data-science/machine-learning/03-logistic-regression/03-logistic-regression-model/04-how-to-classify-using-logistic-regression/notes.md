@@ -6,7 +6,8 @@ slug: classify-using-logistic-regression
 
 # How to Classify Using Logistic Regression
 
-Let us recall the hypothesis function of logistic regression algorithm : $$\begin{aligned} h_{\theta}(x) &= g(\theta^{T}x) \\&= \frac{1}{1 + e^{\theta^T x}}\end{aligned}$$
+Let us recall the hypothesis function of logistic regression algorithm :
+$$\begin{aligned} h_{\theta}(x) &= g(\theta^{T}x) \\&= \frac{1}{1 + e^{\theta^T x}}\end{aligned}$$
 
 We know that $h_{\theta}(x)$ is always bounded between 0 and 1 due to property of sigmoid function $g$. We are keeping the convention of letting $x_0 = 1$ so that $\theta^Tx = \theta_0 + \sum_{j=1}^d \theta_j x_j$.
 
