@@ -24,10 +24,6 @@ The mapping takes place online, through a balance of exploration (trying new act
 
 The goal of learning algorithm is to find optimal state action sequence so that it can maximize the cumulative reward over time.
 
-The wanted result is an optimal state-to-action policy that maximizes some overall reward as seen below.
-
-## What is Reinforcement Learning Problem ?
-
 ## Applications of Reinforcement Learning
 
 Let us look at look at some of the real-world applications of reinforcement learning.

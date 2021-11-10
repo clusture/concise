@@ -28,6 +28,6 @@ Let us understand the definition of machine learning by mapping it to the real w
 
 Though there are disagreements, many sources continue to assert that machine learning remains a subfield of AI. The following diagram shows the relationship between the different fields such as artificial intelligence, machine learning and deep learning.
 
-![ML-as-subfield-of-AI](./images/ml-as-subfield-of-ai.jpeg)
+![ML-as-subfield-of-AI](./images/ml-as-subfield-of-ai.jpg)
 
 In this chapter we give a high level introduction to the field of machine learning. To get a big picture sense of how machine learning works we begin by discussing a simple toy machine learning problem: teaching a computer how to distinguish between pictures of cats from those with dogs. This will allow us to informally describe the procedures used to solve machine learning problems in general.
