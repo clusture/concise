@@ -28,13 +28,11 @@ The goal of learning algorithm is to find optimal state action sequence so that 
 
 Let us look at look at some of the real-world applications of reinforcement learning.
 
-- **Self-driving Cars:** In self-driving cars, there are various aspects to consider, such as speed limits at various places, drivable zones, avoiding collisions — just to mention a few. Some of the autonomous driving tasks where reinforcement learning could be applied include trajectory optimization, motion planning, dynamic patching, controller optimization, and scenario-based learning policies for highways. 
+- **Self-driving Cars:** In self-driving cars, there are various aspects to consider, such as speed limits at various places, drivable zones, avoiding collisions — just to mention a few. Some of the autonomous driving tasks where reinforcement learning could be applied include trajectory optimization, motion planning, dynamic patching, controller optimization, and scenario-based learning policies for highways.
 
-- **Industrial Automation:** 
+- **Robotics:** In industry, reinforcement learning-based robots are used to perform various tasks. Apart from the fact that these robots are more efficient than human beings, they can also perform tasks that would be dangerous for people.  
 
-- **Robotics:** In industry, reinforcement learning-based robots are used to perform various tasks. Apart from the fact that these robots are more efficient than human beings, they can also perform tasks that would be dangerous for people. 
-
-- **Autonomous Trading:** 
+- **Other Applications:** There are many other places reinforcement learning algorithms are used quite extensively. Some of them are industrial automation and autonomous trading etc..
 
 
 
