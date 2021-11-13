@@ -1,7 +1,7 @@
 ---
 title: Real-world Machine Learning Use cases
 topic: Introduction to Machine Learning
-slug: reinforcement-learning-intro
+slug: real-world-machine-learning-use-cases
 ---
 
 # Real-world Machine Learning Use cases
