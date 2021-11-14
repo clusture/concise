@@ -30,4 +30,4 @@ Though there are disagreements, many sources continue to assert that machine lea
 
 ![ML-as-subfield-of-AI](./images/ml-as-subfield-of-ai.jpg)
 
-In this chapter we give a high level introduction to the field of machine learning. To get a big picture sense of how machine learning works we begin by discussing a simple toy machine learning problem: teaching a computer how to distinguish between pictures of cats from those with dogs. This will allow us to informally describe the procedures used to solve machine learning problems in general.
+
