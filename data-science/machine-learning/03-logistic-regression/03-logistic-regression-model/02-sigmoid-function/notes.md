@@ -11,6 +11,6 @@ $$g(z) = \frac{1}{1+e^{-z}}$$
 
 We used the sigmoid function $g$ in logistic regression's hypothesis function. Here, is a plot that shows logistic function or sigmoid function $g(z)$.
 
-![Sigmoid-Function-Plot](./images/logistic-function.PNG)
+![Sigmoid-Function-Plot](./images/logistic-function.png)
 
 Let us look at some properties of a sigmoid function.
