@@ -8,7 +8,7 @@ slug: reinforcement-learning-intro
 
 Reinforcement learning is a subfield of machine learning that you can use to train a software agent to behave rationally in an environment. The agent is rewarded based on the actions it takes within the environment.
 
-The following diagram summarizes the reinforced learning setting. 
+The following diagram summarizes the reinforcement learning setting. 
 
 ![Reinforcement-Learning](./images/reinforcement-learning-sequence.png)
 

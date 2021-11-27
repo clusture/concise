@@ -16,9 +16,9 @@ Let us looks at some of the labeled training sets. In tumor detection problem, t
 
 Here, the column named "class" can be understood as a label corresponding to the other column values describing the tumor.
 
-Let us look at another example where the task is to identify the images. The labeled training example might look lik the following.
+Let us look at another example where the task is to identify the images. The labeled training example might look like the following.
 
-![labeled-dataset](./images/labled-dataset-sup_lear.png)
+![labeled-dataset](./images/labled-dataset-sup-lear.png)
 
 Here, the data set consists of images and the label would be name of the object in the image.
 

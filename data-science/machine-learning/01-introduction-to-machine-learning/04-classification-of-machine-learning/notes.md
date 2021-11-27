@@ -17,9 +17,7 @@ Three categories of algorithms used in machine learning are:
 
 **Unsupervised learning** involves no response: The algorithm simply tries to categorize data based on its hidden structure.
 
-**Reinforcement learning** is similar to supervised learning in that it receives feedback, but it’s not necessarily for each input or state. This tutorial explores the ideas behind these learning models and some key algorithms used for each.
-
-Machine-learning algorithms continue to grow and evolve. In most cases, however, algorithms tend to settle into one of three models for learning. The models exist to adjust automatically in some way to improve their operation or behavior.
+**Reinforcement learning** is similar to supervised learning in that it receives feedback, but it's not necessarily for each input or state.
 
 The pictorial interpretation of the different machine learning algorithm types are given as follows:
 

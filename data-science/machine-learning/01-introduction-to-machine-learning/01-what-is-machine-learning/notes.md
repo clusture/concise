@@ -10,7 +10,11 @@ Machine learning is a branch of artificial intelligence (AI) and computer scienc
 
 Machine learning is the science where in order to predict a value, algorithms are applied for a system to learn patterns within data. With the use of sufficient data, the relationship between all of the input variables and the values to be predicted is established. 
 
-It becomes easier for the system to predict a new value given other input variables. This approach differs from conventional programming where an application is developed based on previously set rules. 
+It becomes easier for the system to predict a new value given other input variables. This approach differs from conventional programming where an application is developed based on previously set rules.
+
+The difference between conventional programming and machine learning is shown in the following diagram.
+
+![Conventional-Programming](./images/conventional-ml-programming.png)
 
 Even though the fundamental concepts of machine learning have been around for a while, the field has gained momentum recently due to the state-of-the-art processors and the abundant data that's available, which are both key to achieving accurate predictions.
 
@@ -26,8 +30,8 @@ Let us understand the definition of machine learning by mapping it to the real w
 * Experience E is a sequence of images and steering commands of human
 
 
-Though there are disagreements, many sources continue to assert that machine learning remains a subfield of AI. The following diagram shows the relationship between the different fields such as artificial intelligence, machine learning and deep learning.
+Though there are disagreements, many sources continue to assert that machine learning remains a subfield of AI. The following diagram shows the relationship between the different fields such as artificial intelligence, machine learning and deep learning. Here, deep learning is a sub-field in machine learning. It consists of methods related to artificial neural networks.
 
 ![ML-as-subfield-of-AI](./images/ml-as-subfield-of-ai.jpg)
 
-
+Deep learning is a sub-field in machine learning. It consists of methods related to artificial neural networks.
