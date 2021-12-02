@@ -17,7 +17,7 @@ First, Let's start by talking about discriminative learning algorithms due to it
 
 ## Discriminative Learning Algorithms
 
-A discriminative classifier tries to model by just depending on the observed data. It makes fewer assumptions on the distributions but depends heavily on the quality of the data (Is it representative? Are there a lot of data?). An example is the Logistic Regression. 
+A discriminative classifier tries to model by just depending on the observed data. It makes fewer assumptions on the distributions but depends heavily on the quality of the data (Is it representative? Are there a lot of data?). An example is the Logistic Regression.
 
 A discriminative model learns the conditional probability distribution: $p(y|x)$, which should be read as "the probability of y given x".
 
@@ -25,6 +25,8 @@ To predict the label y from the training example x, the models evaluate:
 $$f(x) = {\underset {y} {\operatorname {arg\,\, max}}}\,\, p(y|x)$$
 
 This can be understood as : choose the value of $y$ such that it maximizes the conditional probability $p(y|x)$.
+
+![Discriminative-Model](./images/discriminative-learning-algo.png)
 
 Another way to understand this equation is that model selects most likely class $y$ for- given $x$. 
 
