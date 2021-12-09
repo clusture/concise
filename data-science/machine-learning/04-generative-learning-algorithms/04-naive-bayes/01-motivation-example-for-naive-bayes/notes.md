@@ -22,13 +22,3 @@ The length of vector is the total number of words in the dataset dictionary. Set
 For example, the dataset has 50,000 unique words then the size of the vocabulary is $50K$. And, the input to the classifier is the word vector $x \in \{0,1\}^{50,000}$. And the classifier needs to predict whether email is spam or not. 
 
 In order to build a generative model, we need to estimate $p(x|y)$ and $p(y)$. To estimate, we need to assume some model for $p(x|y)$. Let us look, what assumptions naive bayes algorithm makes and how it estimates the $p(x|y)$.
-
-
-
-
-
-
-
-
-
-
