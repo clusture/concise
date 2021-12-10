@@ -19,4 +19,3 @@ $$\begin{aligned} p(y=1 | x) &= \frac{ \left[\prod_{i=1}^m p(x^i|y=1)\right] p(y
 
 This is due to terms "$\prod_{i=1}^m p(x^i|y)$" includes the term $p(x^j|y)$  that is multiplied into it. Here, we know that $p(x^j|y) =0$, where $x^j$ is a new word. Hence, Naive Bayes algorithm obtains $\frac{0}{0}$, does not know how to make the classification.
 
-Let us understand why this problem is happening.
