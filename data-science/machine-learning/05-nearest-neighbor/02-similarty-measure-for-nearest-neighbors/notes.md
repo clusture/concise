@@ -14,7 +14,7 @@ Let us look at some of the popular distance measures near neighbor classifiers e
 3. Minkowski distance 
 4. Hamming distance
 
-## Euclid Distance
+## Euclidean Distance
 
 Euclidean distance between two points in Euclidean space is the length of a line segment between the two points. Euclidean space is defined over real numbers. 
 
@@ -40,7 +40,7 @@ In this diagram, both blue line and green line are for Manhattan distance. Where
 Minkowski distance is the generalization or generalized form of the Euclidean and Manhatten distance. The Minkowski distance for two $n-$ dimensional vectors $x$ and $y$ are given by the following formula:
 $$d(x,y) = \left(\sum_{i=1}^n |x_i - y_i|^p\right)^{\frac{1}{p}}$$
 
-Here, $p$ is the integer $(\ge 1)$.
+Here, $p$ is the integer $(\ge 1)$. When $p=1$, it becomes Manhattan distance. Whereas $p=2$ makes Euclidean distance. This is why Minkowski distance is generalization of Manhattan and Euclidean distance.
 
 ## Hamming Distance
 

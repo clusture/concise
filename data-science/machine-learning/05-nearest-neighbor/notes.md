@@ -4,7 +4,7 @@ topic: Nearest Neighbors
 slug:  nearest-neighbors
 ---
 
-# Nearest Neighbor
+# Nearest Neighbors
 
 Nearest neighbor algorithms are one of the simplest supervised learning algorithms. Though, they can be used for both classification and regression problems, they are mostly used for classification problems.
 
