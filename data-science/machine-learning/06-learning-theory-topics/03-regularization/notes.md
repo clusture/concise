@@ -8,6 +8,10 @@ slug: regularization
 
 We understood that sometimes model performs well on the training data but does not perform well on the unseen or test data. It means the model is not able to predict the output or target column for the unseen data. We know that such model is called an overfitted model. Regularization is one of the technique to control the overfitting.
 
+Let us see the following diagram to get understand overfitting and underfitting :
+
+![Overfitting-Underfitting](./images/overfitting-underfitting-regularization.png)
+
 Regularization technique aims at reducing the variance to obtain a robust model. By controlling the variance of the model, they control the overfitting. Common form of regularization is add a term to the objective function to penalize the model complexity.
 
 In supervised machine learning, the goal is to learn a function $f$ that minimizes some form a loss function. The common form of regularization is given by :

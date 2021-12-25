@@ -16,6 +16,6 @@ We want a model that generalizes well. It means it should not only perform well 
 
 The goal of cross-validation is to test the model's ability to predict new data that was not used in estimating it, in order to flag problems like overfitting and to give an insight on how the model will generalize to an independent dataset.
 
-At high level, Cross validation is a technique that divides the training set into $k$ subsets, and then performs the model selection on each subset. The model selection is performed by training the model on the training set and testing it on the test set. The test set is used to evaluate the performance of the model. This simple cross-validation idea is also called **hold out cross-validation**.
+At high level, Cross validation is a technique that divides the training set into few subsets, and then performs the model selection on these subset. The model selection is performed by first training the model on the training set and evaluating it on the remaining part or subset of training set. The test set is used to evaluate the final performance of the model.
 
-Let us look at the details of hold out cross-validation.
+Let us look at the details of cross-validation.
