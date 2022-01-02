@@ -18,14 +18,14 @@ Our task now is to construct a hypothesis function $\hat f_m$ given a fixed trai
 In other words, we want $\hat f_m$ to have **good generalization error**. The generalization error of a hypothesis is its expected error on examples not necessarily in the training set. We will look into this topic from the perspective of a mean squared loss/error.
 
 Let $(x_*, y_*)$ be a new unseen data point and the corresponding generalization error is given by (here, expectation is over randomness ) :
-$$\begin{aligned}\text{MSE}(\hat f_n) &= \mathbb{E}\left[(y_* - \hat f_n(x_*)^2)\right] 
-\\&= \mathbb{E}\left[(\epsilon + f(x_*) - \hat f_n(x_*)^2)\right] \quad \text{since}\,\, y_* = f(x_*) + \epsilon 
-\\ &= \mathbb{E}[\epsilon^2] + \mathbb{E} [(f(x_* )- \hat f_n(x_n))^2] + \mathbb{E}[2 \epsilon (f(x_* )- \hat f_n(x_n))] \\&= \mathbb{E}[\epsilon^2] + \mathbb{E} [(f(x_* )- \hat f_n(x_n))^2] + \mathbb{E}[\epsilon]\,\,\mathbb{E}[2 (f(x_* )- \hat f_n(x_n))] 
-\\&=\mathbb{E}[\epsilon^2] + \mathbb{E} [(f(x_* )- \hat f_n(x_n))^2] \quad \text{since}\,\, \mathbb{E}[\epsilon] = 0
-\\&= \mathbb{E}[\epsilon^2] + \mathbb{E} [f(x_* )- \hat f_n(x_n)]^2 + \mathbb{V}[f(x_* )- \hat f_n(x_n)] \quad \text{since}\,\,\mathbb{E}[X^2] = \mathbb{V}[X]+ \mathbb{E}[X]^2
-\\&= \tau^2 + \mathbb{E} [f(x_* )- \hat f_n(x_n)]^2 + \mathbb{V}[\hat f_n(x_*)] \quad \text{since}\,\,\mathbb{V}[a-X] = \mathbb{V}[X]\end{aligned}$$
+$$\begin{aligned}\text{MSE}(\hat f_m) &= \mathbb{E}\left[(y_* - \hat f_m(x_*))^2\right] 
+\\&= \mathbb{E}\left[(\epsilon + f(x_*) - \hat f_m(x_*))^2\right] \quad \text{since}\,\, y_* = f(x_*) + \epsilon 
+\\ &= \mathbb{E}[\epsilon^2] + \mathbb{E} [(f(x_* )- \hat f_m(x_*))^2] + \mathbb{E}[2 \epsilon (f(x_* )- \hat f_m(x_*))] \\&= \mathbb{E}[\epsilon^2] + \mathbb{E} [(f(x_* )- \hat f_m(x_*))^2] + \mathbb{E}[\epsilon]\,\,\mathbb{E}[2 (f(x_* )- \hat f_m(x_*))] 
+\\&=\mathbb{E}[\epsilon^2] + \mathbb{E} [(f(x_* )- \hat f_m(x_*))^2] \quad \text{since}\,\, \mathbb{E}[\epsilon] = 0
+\\&= \mathbb{E}[\epsilon^2] + \mathbb{E} [f(x_* )- \hat f_m(x_*)]^2 + \mathbb{V}[f(x_* )- \hat f_m(x_*)] \quad \text{since}\,\,\mathbb{E}[X^2] = \mathbb{V}[X]+ \mathbb{E}[X]^2
+\\&= \tau^2 + \mathbb{E} [f(x_* )- \hat f_m(x_*)]^2 + \mathbb{V}[\hat f_m(x_*)] \quad \text{since}\,\,\mathbb{V}[a-X] = \mathbb{V}[X]\end{aligned}$$
 
-Here, $\tau^2$ is irreducible error, $\mathbb{E} [f(x_* )- \hat f_n(x_n)]$ is Bias and $\mathbb{V}[\hat f_n(x_*)]$ is Variance. So, the generalization error of is given by :
+Here, $\tau^2$ is irreducible error, $\mathbb{E} [f(x_* )- \hat f_m(x_*)]$ is Bias and $\mathbb{V}[\hat f_m(x_*)]$ is Variance. So, the generalization error of is given by :
 $$ \text{generalization error} = (\text{Bias})^2 + \text{Variance} + \text{irreducible error}$$
 
 Now, let us look at the individual errors :
